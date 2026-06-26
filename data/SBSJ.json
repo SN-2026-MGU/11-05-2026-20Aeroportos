@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-26T11:39:03.624287+00:00",
+  "updated_at": "2026-06-26T14:02:07.050837+00:00",
   "data_referencia": "2026-06-26",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSJ",
-    "sg_aerodromo_iata": "SJK",
-    "descricao": "PROFESSOR URBANO ERNESTO STUMPF - SÃO JOSÉ DOS CAMPOS - SP - BRASIL"
+    "sg_aerodromo_icao": "SBGR",
+    "sg_aerodromo_iata": "GRU",
+    "descricao": "GUARULHOS - GOVERNADOR ANDRÉ FRANCO MONTORO - GUARULHOS - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
