@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T16:24:34.597092+00:00",
+  "updated_at": "2026-07-08T21:58:22.761161+00:00",
   "data_referencia": "2026-07-08",
   "airport_icao": "SBJA",
   "airport_name": "SBJA",
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "TAM4770",
+      "numero_voo": "4770",
+      "airline_icao": "TAM",
+      "airline": "LATAM",
+      "equipamento_icao": "A320",
+      "equipamento": "Airbus A320",
+      "assentos": "180",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBGR",
+      "destino_icao": "SBJA",
+      "partida_iso": "2026-07-12T16:05:00-03:00",
+      "chegada_iso": "2026-07-12T17:30:00-03:00",
+      "partida_brt": "16:05",
+      "chegada_brt": "17:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGR",
+      "rota_nome": "Sao Paulo / Guarulhos"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "TAM4771",
+      "numero_voo": "4771",
+      "airline_icao": "TAM",
+      "airline": "LATAM",
+      "equipamento_icao": "A320",
+      "equipamento": "Airbus A320",
+      "assentos": "180",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBJA",
+      "destino_icao": "SBGR",
+      "partida_iso": "2026-07-12T18:25:00-03:00",
+      "chegada_iso": "2026-07-12T19:55:00-03:00",
+      "partida_brt": "18:25",
+      "chegada_brt": "19:55",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGR",
+      "rota_nome": "Sao Paulo / Guarulhos"
+    }
+  ]
 }
