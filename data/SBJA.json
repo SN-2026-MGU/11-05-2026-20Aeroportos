@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-07-14T16:07:53.721363+00:00",
+  "updated_at": "2026-07-14T21:46:32.141134+00:00",
   "data_referencia": "2026-07-14",
   "airport_icao": "SBJA",
   "airport_name": "SBJA",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBJA",
-    "sg_aerodromo_iata": "JJG",
-    "descricao": "REGIONAL SUL - JAGUARUNA - SC - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
