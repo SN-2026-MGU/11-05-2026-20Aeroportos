@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T21:16:11.304322+00:00",
-  "data_referencia": "2026-08-17",
+  "updated_at": "2026-08-18T09:22:02.904721+00:00",
+  "data_referencia": "2026-08-18",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
   "airport_info": {
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "LTG8411",
+      "numero_voo": "8411",
+      "airline_icao": "LTG",
+      "airline": "LTG",
+      "equipamento_icao": "B763",
+      "equipamento": "Boeing 767-300",
+      "assentos": "0",
+      "etapa": "1",
+      "tipo_operacao": "Internacional",
+      "tipo_servico": "REGULAR DE CARGA INTERNACIONAL",
+      "origem_icao": "KMIA",
+      "destino_icao": "SBSJ",
+      "partida_iso": "2026-08-18T08:00:00-03:00",
+      "chegada_iso": "2026-08-18T16:40:00-03:00",
+      "partida_brt": "08:00",
+      "chegada_brt": "16:40",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "KMIA",
+      "rota_nome": "KMIA"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "LTG8411",
+      "numero_voo": "8411",
+      "airline_icao": "LTG",
+      "airline": "LTG",
+      "equipamento_icao": "B763",
+      "equipamento": "Boeing 767-300",
+      "assentos": "0",
+      "etapa": "2",
+      "tipo_operacao": "Internacional",
+      "tipo_servico": "REGULAR DE CARGA INTERNACIONAL",
+      "origem_icao": "SBSJ",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-08-18T18:10:00-03:00",
+      "chegada_iso": "2026-08-18T19:00:00-03:00",
+      "partida_brt": "18:10",
+      "chegada_brt": "19:00",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ]
 }
