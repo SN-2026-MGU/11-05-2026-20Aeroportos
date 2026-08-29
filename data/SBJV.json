@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-29T14:04:16.774750+00:00",
+  "updated_at": "2026-08-29T18:00:13.084057+00:00",
   "data_referencia": "2026-08-29",
   "airport_icao": "SBJV",
   "airport_name": "Joinville",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCY",
-    "sg_aerodromo_iata": "CGB",
-    "descricao": "MARECHAL RONDON - VÁRZEA GRANDE - MT - BRASIL"
+    "sg_aerodromo_icao": "SBJV",
+    "sg_aerodromo_iata": "JOI",
+    "descricao": "LAURO CARNEIRO DE LOYOLA - JOINVILLE - SC - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
