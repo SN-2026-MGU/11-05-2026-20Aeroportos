@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T16:30:29.866457+00:00",
+  "updated_at": "2026-09-01T00:11:29.424454+00:00",
   "data_referencia": "2026-08-31",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
@@ -34,50 +34,27 @@
       "rota_nome": "KLCK"
     },
     {
-      "callsign": "TAM9948",
-      "numero_voo": "9948",
-      "airline_icao": "TAM",
-      "airline": "LATAM",
-      "equipamento_icao": "E295",
-      "equipamento": "Embraer E195-E2",
+      "callsign": "CJT3245",
+      "numero_voo": "3245",
+      "airline_icao": "CJT",
+      "airline": "CJT",
+      "equipamento_icao": "B763",
+      "equipamento": "Boeing 767-300",
       "assentos": "0",
       "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "SOBREVOOS OU TRASLADOS OPERACIONAIS DOMÉSTICA",
-      "origem_icao": "SBFL",
+      "tipo_operacao": "Internacional",
+      "tipo_servico": "NÃO REGULAR DE CARGA INTERNACIONAL",
+      "origem_icao": "KLCK",
       "destino_icao": "SBSJ",
-      "partida_iso": "2026-09-07T09:20:00-03:00",
-      "chegada_iso": "2026-09-07T10:40:00-03:00",
-      "partida_brt": "09:20",
-      "chegada_brt": "10:40",
+      "partida_iso": "2026-08-31T16:00:00-03:00",
+      "chegada_iso": "2026-09-01T02:10:00-03:00",
+      "partida_brt": "16:00",
+      "chegada_brt": "02:10",
       "status": "programado",
       "fonte": "SIROS/ANAC",
-      "rota": "SBFL",
-      "rota_nome": "Florianopolis"
+      "rota": "KLCK",
+      "rota_nome": "KLCK"
     }
   ],
-  "departures": [
-    {
-      "callsign": "TAM9945",
-      "numero_voo": "9945",
-      "airline_icao": "TAM",
-      "airline": "LATAM",
-      "equipamento_icao": "E295",
-      "equipamento": "Embraer E195-E2",
-      "assentos": "0",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "SOBREVOOS OU TRASLADOS OPERACIONAIS DOMÉSTICA",
-      "origem_icao": "SBSJ",
-      "destino_icao": "SBBR",
-      "partida_iso": "2026-09-07T04:10:00-03:00",
-      "chegada_iso": "2026-09-07T05:45:00-03:00",
-      "partida_brt": "04:10",
-      "chegada_brt": "05:45",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBBR",
-      "rota_nome": "Brasilia"
-    }
-  ]
+  "departures": []
 }
