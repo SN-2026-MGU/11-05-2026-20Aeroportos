@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:44:35.838575+00:00",
+  "updated_at": "2026-09-24T23:40:02.749368+00:00",
   "data_referencia": "2026-09-24",
   "airport_icao": "SBUG",
   "airport_name": "SBUG",
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "AZU2997",
+      "numero_voo": "2997",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBPA",
+      "destino_icao": "SBUG",
+      "partida_iso": "2026-10-23T14:00:00-03:00",
+      "chegada_iso": "2026-10-23T15:50:00-03:00",
+      "partida_brt": "14:00",
+      "chegada_brt": "15:50",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBPA",
+      "rota_nome": "Porto Alegre"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AZU2996",
+      "numero_voo": "2996",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBUG",
+      "destino_icao": "SBPA",
+      "partida_iso": "2026-10-23T16:20:00-03:00",
+      "chegada_iso": "2026-10-23T17:55:00-03:00",
+      "partida_brt": "16:20",
+      "chegada_brt": "17:55",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBPA",
+      "rota_nome": "Porto Alegre"
+    }
+  ]
 }
