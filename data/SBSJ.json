@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T14:23:44.402734+00:00",
+  "updated_at": "2026-09-27T18:45:29.185750+00:00",
   "data_referencia": "2026-09-27",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
@@ -122,6 +122,28 @@
       "fonte": "SIROS/ANAC",
       "rota": "SBKP",
       "rota_nome": "Campinas / Viracopos"
+    },
+    {
+      "callsign": "UKL5021",
+      "numero_voo": "5021",
+      "airline_icao": "UKL",
+      "airline": "UKL",
+      "equipamento_icao": "AN12",
+      "equipamento": "AN12",
+      "assentos": "0",
+      "etapa": "1",
+      "tipo_operacao": "Internacional",
+      "tipo_servico": "NÃO REGULAR DE CARGA INTERNACIONAL",
+      "origem_icao": "SBSJ",
+      "destino_icao": "TTPP",
+      "partida_iso": "2026-09-28T10:00:00-03:00",
+      "chegada_iso": "2026-09-28T18:00:00-03:00",
+      "partida_brt": "10:00",
+      "chegada_brt": "18:00",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "TTPP",
+      "rota_nome": "TTPP"
     }
   ]
 }
