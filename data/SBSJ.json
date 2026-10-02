@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T00:20:13.979742+00:00",
-  "data_referencia": "2026-10-01",
+  "updated_at": "2026-10-02T15:10:17.674878+00:00",
+  "data_referencia": "2026-10-02",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
   "airport_info": {
@@ -10,29 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": [
+  "arrivals": [
     {
-      "callsign": "UKL5021",
-      "numero_voo": "5021",
-      "airline_icao": "UKL",
-      "airline": "UKL",
-      "equipamento_icao": "AN12",
-      "equipamento": "AN12",
-      "assentos": "0",
+      "callsign": "GLO2116",
+      "numero_voo": "2116",
+      "airline_icao": "GLO",
+      "airline": "GOL",
+      "equipamento_icao": "B38M",
+      "equipamento": "Boeing 737 MAX 8",
+      "assentos": "186",
       "etapa": "1",
-      "tipo_operacao": "Internacional",
-      "tipo_servico": "NÃO REGULAR DE CARGA INTERNACIONAL",
-      "origem_icao": "SBSJ",
-      "destino_icao": "TTPP",
-      "partida_iso": "2026-10-01T09:00:00-03:00",
-      "chegada_iso": "2026-10-01T17:00:00-03:00",
-      "partida_brt": "09:00",
-      "chegada_brt": "17:00",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBGL",
+      "destino_icao": "SBSJ",
+      "partida_iso": "2026-10-02T18:10:00-03:00",
+      "chegada_iso": "2026-10-02T19:15:00-03:00",
+      "partida_brt": "18:10",
+      "chegada_brt": "19:15",
       "status": "programado",
       "fonte": "SIROS/ANAC",
-      "rota": "TTPP",
-      "rota_nome": "TTPP"
+      "rota": "SBGL",
+      "rota_nome": "Rio de Janeiro / Galeao"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "GLO2117",
+      "numero_voo": "2117",
+      "airline_icao": "GLO",
+      "airline": "GOL",
+      "equipamento_icao": "B38M",
+      "equipamento": "Boeing 737 MAX 8",
+      "assentos": "186",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBSJ",
+      "destino_icao": "SBGL",
+      "partida_iso": "2026-10-02T19:55:00-03:00",
+      "chegada_iso": "2026-10-02T20:55:00-03:00",
+      "partida_brt": "19:55",
+      "chegada_brt": "20:55",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGL",
+      "rota_nome": "Rio de Janeiro / Galeao"
     }
   ]
 }
