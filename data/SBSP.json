@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-04T14:29:45.636037+00:00",
+  "updated_at": "2026-10-04T18:27:28.676162+00:00",
   "data_referencia": "2026-10-04",
   "airport_icao": "SBSP",
   "airport_name": "Sao Paulo / Congonhas",
   "airport_info": {
-    "sg_aerodromo_icao": "SBGL",
-    "sg_aerodromo_iata": "GIG",
-    "descricao": "AEROPORTO INTERNACIONAL DO RIO DE JANEIRO/GALEÃO – ANTONIO CARLOS JOBIM - RIO DE JANEIRO - RJ - BRASIL"
+    "sg_aerodromo_icao": "SBSP",
+    "sg_aerodromo_iata": "CGH",
+    "descricao": "CONGONHAS - SÃO PAULO - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
