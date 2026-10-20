@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T00:01:51.491908+00:00",
-  "data_referencia": "2026-10-19",
+  "updated_at": "2026-10-20T13:57:13.877596+00:00",
+  "data_referencia": "2026-10-20",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
   "airport_info": {
@@ -11,28 +11,5 @@
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],
-  "departures": [
-    {
-      "callsign": "TAM9550",
-      "numero_voo": "9550",
-      "airline_icao": "TAM",
-      "airline": "LATAM",
-      "equipamento_icao": "E295",
-      "equipamento": "Embraer E195-E2",
-      "assentos": "0",
-      "etapa": "1",
-      "tipo_operacao": "Internacional",
-      "tipo_servico": "SOBREVOOS OU TRASLADOS OPERACIONAIS INTERNACIONAL",
-      "origem_icao": "SBSJ",
-      "destino_icao": "SGAS",
-      "partida_iso": "2026-10-19T10:00:00-03:00",
-      "chegada_iso": "2026-10-19T12:15:00-03:00",
-      "partida_brt": "10:00",
-      "chegada_brt": "12:15",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SGAS",
-      "rota_nome": "SGAS"
-    }
-  ]
+  "departures": []
 }
