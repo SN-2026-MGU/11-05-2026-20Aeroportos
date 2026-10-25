@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T22:47:02.235788+00:00",
-  "data_referencia": "2026-10-24",
+  "updated_at": "2026-10-25T13:26:30.224554+00:00",
+  "data_referencia": "2026-10-25",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
   "airport_info": {
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "GLO2116",
+      "numero_voo": "2116",
+      "airline_icao": "GLO",
+      "airline": "GOL",
+      "equipamento_icao": "B38M",
+      "equipamento": "Boeing 737 MAX 8",
+      "assentos": "186",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBGL",
+      "destino_icao": "SBSJ",
+      "partida_iso": "2026-10-25T17:30:00-03:00",
+      "chegada_iso": "2026-10-25T18:30:00-03:00",
+      "partida_brt": "17:30",
+      "chegada_brt": "18:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGL",
+      "rota_nome": "Rio de Janeiro / Galeao"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "GLO2117",
+      "numero_voo": "2117",
+      "airline_icao": "GLO",
+      "airline": "GOL",
+      "equipamento_icao": "B38M",
+      "equipamento": "Boeing 737 MAX 8",
+      "assentos": "186",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBSJ",
+      "destino_icao": "SBGL",
+      "partida_iso": "2026-10-25T19:10:00-03:00",
+      "chegada_iso": "2026-10-25T20:00:00-03:00",
+      "partida_brt": "19:10",
+      "chegada_brt": "20:00",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGL",
+      "rota_nome": "Rio de Janeiro / Galeao"
+    }
+  ]
 }
