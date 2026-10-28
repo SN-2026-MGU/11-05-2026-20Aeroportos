@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T00:08:42.575748+00:00",
-  "data_referencia": "2026-10-27",
+  "updated_at": "2026-10-28T15:36:33.983269+00:00",
+  "data_referencia": "2026-10-28",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
   "airport_info": {
@@ -10,6 +10,74 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "GLO2116",
+      "numero_voo": "2116",
+      "airline_icao": "GLO",
+      "airline": "GOL",
+      "equipamento_icao": "B738",
+      "equipamento": "Boeing 737-800",
+      "assentos": "186",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBGL",
+      "destino_icao": "SBSJ",
+      "partida_iso": "2026-10-28T17:30:00-03:00",
+      "chegada_iso": "2026-10-28T18:30:00-03:00",
+      "partida_brt": "17:30",
+      "chegada_brt": "18:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGL",
+      "rota_nome": "Rio de Janeiro / Galeao"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "TAM9552",
+      "numero_voo": "9552",
+      "airline_icao": "TAM",
+      "airline": "LATAM",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "0",
+      "etapa": "1",
+      "tipo_operacao": "Internacional",
+      "tipo_servico": "SOBREVOOS OU TRASLADOS OPERACIONAIS INTERNACIONAL",
+      "origem_icao": "SBSJ",
+      "destino_icao": "SGAS",
+      "partida_iso": "2026-10-28T09:00:00-03:00",
+      "chegada_iso": "2026-10-28T11:15:00-03:00",
+      "partida_brt": "09:00",
+      "chegada_brt": "11:15",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SGAS",
+      "rota_nome": "SGAS"
+    },
+    {
+      "callsign": "GLO2117",
+      "numero_voo": "2117",
+      "airline_icao": "GLO",
+      "airline": "GOL",
+      "equipamento_icao": "B738",
+      "equipamento": "Boeing 737-800",
+      "assentos": "186",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBSJ",
+      "destino_icao": "SBGL",
+      "partida_iso": "2026-10-28T19:10:00-03:00",
+      "chegada_iso": "2026-10-28T20:05:00-03:00",
+      "partida_brt": "19:10",
+      "chegada_brt": "20:05",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGL",
+      "rota_nome": "Rio de Janeiro / Galeao"
+    }
+  ]
 }
