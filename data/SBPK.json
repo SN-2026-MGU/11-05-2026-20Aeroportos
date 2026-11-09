@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T00:16:52.218221+00:00",
-  "data_referencia": "2026-11-08",
+  "updated_at": "2026-11-09T19:18:49.568496+00:00",
+  "data_referencia": "2026-11-09",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "airport_info": {
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "AZU2832",
+      "numero_voo": "2832",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBKP",
+      "destino_icao": "SBPK",
+      "partida_iso": "2026-11-09T14:05:00-03:00",
+      "chegada_iso": "2026-11-09T16:05:00-03:00",
+      "partida_brt": "14:05",
+      "chegada_brt": "16:05",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AZU2833",
+      "numero_voo": "2833",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBPK",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-11-09T16:45:00-03:00",
+      "chegada_iso": "2026-11-09T18:35:00-03:00",
+      "partida_brt": "16:45",
+      "chegada_brt": "18:35",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ]
 }
