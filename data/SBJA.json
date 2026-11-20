@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-19T17:49:22.296639+00:00",
+  "updated_at": "2026-11-20T01:56:39.499728+00:00",
   "data_referencia": "2026-11-19",
   "airport_icao": "SBJA",
   "airport_name": "SBJA",
   "airport_info": {
-    "sg_aerodromo_icao": "SBLO",
-    "sg_aerodromo_iata": "LDB",
-    "descricao": "GOVERNADOR JOSÉ RICHA - LONDRINA - PR - BRASIL"
+    "sg_aerodromo_icao": "SBJA",
+    "sg_aerodromo_iata": "JJG",
+    "descricao": "REGIONAL SUL - JAGUARUNA - SC - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
